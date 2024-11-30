@@ -28,6 +28,7 @@ function Skills(){
           <ul>
             <li>React</li>
             <li>JQuery</li>
+            <li>Next Ui</li>
             
           </ul>
         </div> 
@@ -36,6 +37,8 @@ function Skills(){
           <ul>
             <li>Angular 17</li>
             <li>Bootstrap</li>
+            
+            <li>vite</li>
             
           </ul>
         </div>
